@@ -1,0 +1,5 @@
+{
+  "name": "Niche Link Generator",
+  "description": "An application that lists 100 high-paying US niches. When a user clicks on a niche, it uses the Gemini API to generate 15 relevant, clickable website links.",
+  "requestFramePermissions": []
+}
